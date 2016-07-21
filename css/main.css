@@ -1,0 +1,23 @@
+.caja{
+	background-color: #CE5FBC;
+	border: 2px solid #411439;
+	width: 100px;
+	height: 50px;
+	margin: 15px;
+}
+
+.flotante{
+	float: left;
+}
+
+.clearfix{
+	overflow: auto;
+	zoom: 1;
+}/**/
+
+.principal{
+	background-color: #CE5FBC;
+	width: 700px;
+	margin: 50px 0;
+	padding: 20px;
+}
